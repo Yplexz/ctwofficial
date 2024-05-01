@@ -1,6 +1,7 @@
 {
     "allowed_domains": [
         "server.ctwofficial.com",
-        "ctwofficial.com"
+        "ctwofficial.com",
+        "ctw-official.com"
     ]
 }
