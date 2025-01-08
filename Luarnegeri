@@ -1,0 +1,6 @@
+if (connecting == true) {
+boterindriver.ctwofficial = true
+validasi = true
+enableuser = true
+isTrial = false
+}
