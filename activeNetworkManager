@@ -1,5 +1,0 @@
-     if (activeNetworkManager()) {
-            isLaunched(alex)
-        } else {
-            NoExistingFile()
-        }
